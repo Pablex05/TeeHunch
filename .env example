@@ -1,1 +1,2 @@
 export 'BEARER_TOKEN'='      '
+export 'USER_TOKEN'='       '
