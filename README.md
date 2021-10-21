@@ -13,3 +13,6 @@
 ### pip install graphviz
 ### pip install pydotplus
 ### pip install wordcloud
+
+para usar la alternativa, se necesita que el entorno conda este activado
+-conda activate
