@@ -1,5 +1,7 @@
 # TeeHunch
 
+Analizador de Sentimientos empleando mensajes de twitter a travez de la API de Twitter
+
 ## Librerias de nltk
 ### nltk.download('punkt')
 ### nltk.download('stopwords')
